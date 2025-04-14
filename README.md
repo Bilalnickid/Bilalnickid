@@ -2,7 +2,7 @@
 - 👀 I’m interested in data analysis and big data
 - 🌱 I’m currently learning data query 
 - 💞️ I’m looking to collaborate on big data project
-- 📫 How to reach me bilal4245@gmail.com 
+- 📫 How to reach me 
 - ⚡ Fun fact: you never know what data can tell you 
 
 <!---
